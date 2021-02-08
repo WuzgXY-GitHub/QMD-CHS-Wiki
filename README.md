@@ -1,2 +1,1 @@
-# QMD-Wiki
-The CHS wiki of Lach01298's Minecraft mod QMD.
+[CLICK ME](https://github.com/WuzgXY-GitHub/QMD-CHS-Wiki/wiki)
